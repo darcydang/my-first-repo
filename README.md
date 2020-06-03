@@ -1,29 +1,26 @@
-# This is a large heading
+# Nghi Dang
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Birmingham, in the state of Alabama, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Becoming* by Michelle Obama
+- *Harry Potter* by J.K.Rowling
+- *Love Does" by Bob Goff
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+These are three of my top favourite rrestaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Tuk tuk in Vietnam
+2. Papadeux in Birmingham, AL
+3. Cousins Maine Lobster in Charlotte, NC
+
+### Contact
+
+The best way to get in touch with me is [on Facebook](https://www.facebook.com/nghi.phuong.16/).
 
