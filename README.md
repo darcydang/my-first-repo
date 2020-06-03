@@ -10,7 +10,7 @@ Three of my favorite books are:
 
 - *Becoming* by Michelle Obama
 - *Harry Potter* by J.K.Rowling
-- *Love Does" by Bob Goff
+- *Love Does* by Bob Goff
 
 ### Food
 
